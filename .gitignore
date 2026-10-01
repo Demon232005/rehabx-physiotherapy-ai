@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment / secrets
+.env
+.env.local
+*.pem
+*.key
+*.crt
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Builds
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+
+# Runtime data
+backend/storage/
+backend/logs/
+*.db
+*.sqlite3
+models/checkpoints/
+models/run/
+data/*
+!data/README.md
+!data/.gitkeep
+ai/data/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

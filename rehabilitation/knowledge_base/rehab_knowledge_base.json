@@ -1,0 +1,250 @@
+{
+  "exercise_categories": {
+    "gentle_finger_gliding": {
+      "label": "Gentle finger gliding",
+      "description": "Pain-free, low-load finger range-of-motion exercises to maintain joint gliding.",
+      "intensity_default": "low",
+      "exercises": ["finger-flexion", "finger-extension"]
+    },
+    "finger_mobility": {
+      "label": "Finger mobility & spreading",
+      "description": "Active finger spreading and dexterity exercises to restore intrinsic hand function.",
+      "intensity_default": "low",
+      "exercises": ["finger-spreading", "finger-walking"]
+    },
+    "grip_strengthening": {
+      "label": "Gentle grip strengthening",
+      "description": "Isometric and light resistance grip/release training for strength without joint stress.",
+      "intensity_default": "moderate",
+      "exercises": ["gentle-grip-release", "fist-open-close", "towel-wring"]
+    },
+    "thumb_mobility": {
+      "label": "Thumb mobility",
+      "description": "Thumb opposition, flexion and extension exercises critical for pinch and grasp.",
+      "intensity_default": "low",
+      "exercises": ["thumb-opposition", "thumb-flexion", "thumb-extension"]
+    },
+    "wrist_mobility": {
+      "label": "Wrist range-of-motion",
+      "description": "Wrist flexion, extension, rotation and deviation exercises to restore wrist mobility.",
+      "intensity_default": "moderate",
+      "exercises": ["wrist-flexion", "wrist-extension", "wrist-rotation", "wrist-ulnar-radial-deviation"]
+    },
+    "finger_isolation": {
+      "label": "Individual finger isolation",
+      "description": "Single-finger and tendon-gliding drills for isolated joint mobility and tendon health.",
+      "intensity_default": "low",
+      "exercises": ["individual-finger-flexion", "tendon-gliding"]
+    },
+    "thumb_stability": {
+      "label": "Thumb abduction",
+      "description": "Controlled thumb abduction to widen the first web space and support pinch strength.",
+      "intensity_default": "low",
+      "exercises": ["thumb-abduction"]
+    },
+    "targeted_wrist_deviation": {
+      "label": "Targeted wrist deviation",
+      "description": "Isolated ulnar and radial deviation drills for fine-tuned wrist control.",
+      "intensity_default": "low",
+      "exercises": ["wrist-ulnar-deviation", "wrist-radial-deviation"]
+    },
+    "forearm_elbow_mobility": {
+      "label": "Forearm & elbow mobility",
+      "description": "Pronation, supination and elbow flexion-extension to restore rotational freedom.",
+      "intensity_default": "low",
+      "exercises": ["forearm-pronation", "forearm-supination", "elbow-flexion-extension"]
+    },
+    "finger_control": {
+      "label": "Finger control & tendon glide",
+      "description": "Adduction, gliding and combined fist positions that keep every finger joint moving.",
+      "intensity_default": "low",
+      "exercises": ["finger-adduction", "finger-gliding", "hook-fist", "straight-fist", "claw-fist", "finger-tapping"]
+    },
+    "thumb_extended_mobility": {
+      "label": "Thumb mobility (extended)",
+      "description": "Circles, adduction and flow sequences to free the whole thumb arc.",
+      "intensity_default": "low",
+      "exercises": ["thumb-circles", "thumb-adduction", "thumb-stretch", "thumb-mobility-flow"]
+    },
+    "thumb_strengthening": {
+      "label": "Thumb strengthening",
+      "description": "Light pinch-press cycles to rebuild thumb strength after injury or splinting.",
+      "intensity_default": "moderate",
+      "exercises": ["thumb-strengthening"]
+    },
+    "palm_grip_endurance": {
+      "label": "Palm & grip endurance",
+      "description": "Ball, putty and press exercises building comfortable grip endurance.",
+      "intensity_default": "moderate",
+      "exercises": ["soft-ball-squeeze", "grip-and-release", "putty-squeeze", "palm-press"]
+    },
+    "pinch_precision": {
+      "label": "Pinch precision",
+      "description": "Tip, chuck and lateral pinch patterns plus resisted spreading for fine grip strength.",
+      "intensity_default": "moderate",
+      "exercises": ["tip-pinch", "three-finger-pinch", "lateral-pinch", "finger-resistance-band"]
+    },
+    "wrist_rom": {
+      "label": "Wrist range of motion",
+      "description": "Circumduction, mobility flows and light-loaded wrist movement through the full pain-free arc.",
+      "intensity_default": "low",
+      "exercises": ["wrist-circumduction", "wrist-mobility-flow", "wrist-strengthening"]
+    },
+    "wrist_flexibility": {
+      "label": "Wrist flexibility",
+      "description": "Sustained flexor and extensor stretches for forearm muscle length.",
+      "intensity_default": "low",
+      "exercises": ["wrist-flexor-stretch", "wrist-extensor-stretch"]
+    },
+    "forearm_loading": {
+      "label": "Forearm loading",
+      "description": "Wrist curls and rotation drills against very light resistance.",
+      "intensity_default": "moderate",
+      "exercises": ["wrist-curl", "reverse-wrist-curl", "grip-rotation"]
+    },
+    "forearm_flexibility": {
+      "label": "Forearm stretching",
+      "description": "Static forearm lengthening held within a mild, breathing-friendly stretch.",
+      "intensity_default": "low",
+      "exercises": ["forearm-stretch"]
+    },
+    "elbow_rom": {
+      "label": "Elbow range of motion",
+      "description": "Bending, straightening and assisted elbow motion to restore reaching range.",
+      "intensity_default": "low",
+      "exercises": ["elbow-flexion", "elbow-extension", "assisted-elbow-flexion", "controlled-elbow-bending", "elbow-mobility-routine", "light-elbow-strengthening"]
+    },
+    "elbow_flexibility": {
+      "label": "Elbow & arm stretching",
+      "description": "Held extension and overhead stretches for biceps, triceps and the elbow capsule.",
+      "intensity_default": "low",
+      "exercises": ["elbow-extension-stretch", "biceps-stretch", "triceps-stretch"]
+    },
+    "elbow_rotation": {
+      "label": "Elbow rotation",
+      "description": "Pronation-supination with the elbow still, restoring rotational freedom.",
+      "intensity_default": "low",
+      "exercises": ["elbow-pronation-supination"]
+    },
+    "shoulder_elevation": {
+      "label": "Shoulder elevation",
+      "description": "Forward, sideways and wall-assisted elevation patterns for shoulder reach.",
+      "intensity_default": "low",
+      "exercises": ["shoulder-flexion", "shoulder-extension", "shoulder-abduction", "light-shoulder-raises", "front-raises", "side-raises", "wall-slides"]
+    },
+    "shoulder_control": {
+      "label": "Shoulder control & stability",
+      "description": "Cross-body sweeps, circles, blade squeezes and isometric holds that anchor the shoulder.",
+      "intensity_default": "low",
+      "exercises": ["shoulder-adduction", "shoulder-circumduction", "scapular-retraction", "shoulder-blade-stretch", "shoulder-isometric-flexion", "shoulder-isometric-extension"]
+    },
+    "shoulder_rotations": {
+      "label": "Shoulder rotations",
+      "description": "Gentle internal and external rotation with the elbow supported.",
+      "intensity_default": "low",
+      "exercises": ["shoulder-internal-rotation", "shoulder-external-rotation"]
+    },
+    "shoulder_flexibility": {
+      "label": "Shoulder flexibility",
+      "description": "Pendulum swings and sustained stretches that passively release a stiff shoulder.",
+      "intensity_default": "low",
+      "exercises": ["cross-body-shoulder-stretch", "doorway-shoulder-stretch", "pendulum-exercise", "sleeper-stretch", "overhead-shoulder-stretch"]
+    }
+  },
+
+  "abnormality_categories": {
+    "normal": {
+      "label": "No obvious abnormality detected",
+      "rehab_focus": "Maintenance and preventive mobility",
+      "priority": "routine",
+      "focus_reasoning": [
+        "The AI analysis did not detect an obvious abnormality pattern.",
+        "Recommended focus is general hand and wrist mobility and light strengthening to preserve function."
+      ],
+      "exercise_categories": ["gentle_finger_gliding", "wrist_mobility", "thumb_mobility"],
+      "intensity": "low",
+      "notes": "Continue general mobility routines. Report new pain or loss of function to a clinician."
+    },
+    "abnormal_fracture_suspicion": {
+      "label": "Possible fracture / bone disruption pattern",
+      "rehab_focus": "Clinician-supervised evaluation before active rehabilitation",
+      "priority": "urgent_referral",
+      "focus_reasoning": [
+        "The AI model flagged a bone-disruption pattern that can be consistent with a fracture.",
+        "Active rehabilitation is NOT recommended before a clinician confirms the diagnosis.",
+        "Focus is restricted, pain-free active range-of-motion of unaffected segments only."
+      ],
+      "exercise_categories": ["gentle_finger_gliding", "thumb_mobility"],
+      "intensity": "minimal",
+      "notes": "This finding requires clinical evaluation. Do not begin strengthening, weight-bearing or gripping."
+    },
+    "abnormal_degenerative_changes": {
+      "label": "Possible degenerative joint changes",
+      "rehab_focus": "Joint mobility, flexibility and low-load strengthening",
+      "priority": "routine",
+      "focus_reasoning": [
+        "The AI analysis suggests changes consistent with degenerative joint patterns (e.g., osteoarthritic changes).",
+        "Focus on pain-free range-of-motion, then progress to low-load strengthening."
+      ],
+      "exercise_categories": ["wrist_mobility", "gentle_finger_gliding", "thumb_mobility"],
+      "intensity": "low_to_moderate",
+      "notes": "Keep movements within a pain-free range and avoid forceful end-range stretches."
+    },
+    "abnormal_soft_tissue_swelling": {
+      "label": "Possible soft-tissue swelling pattern",
+      "rehab_focus": "Pain-free range-of-motion and edema management",
+      "priority": "routine",
+      "focus_reasoning": [
+        "The AI analysis suggests increased soft-tissue signal consistent with swelling.",
+        "Prioritize gentle, pain-free motion and elevation guidance; strength work should wait."
+      ],
+      "exercise_categories": ["gentle_finger_gliding", "wrist_mobility"],
+      "intensity": "minimal",
+      "notes": "If swelling is significant or worsening, seek clinical evaluation."
+    },
+    "abnormal_generic": {
+      "label": "Abnormal pattern (unspecified)",
+      "rehab_focus": "Gentle mobility and strengthening under clinical guidance",
+      "priority": "routine",
+      "focus_reasoning": [
+        "The AI analysis detected an abnormal pattern but could not confidently subclassify it.",
+        "Begin with gentle, pain-free mobility and strengthening, and confirm findings with a clinician."
+      ],
+      "exercise_categories": ["gentle_finger_gliding", "wrist_mobility", "grip_strengthening"],
+      "intensity": "low",
+      "notes": "Confirm AI findings with clinical assessment before progressing intensity."
+    }
+  },
+
+  "regions": {
+    "wrist": {
+      "label": "Wrist",
+      "focus_phrase": "wrist range-of-motion and stability",
+      "movement_requirements": [
+        "Move only within a pain-free range of motion",
+        "Perform slow, controlled movements without jerking",
+        "Rest between sets; avoid overexertion of the wrist joint"
+      ]
+    },
+    "hand": {
+      "label": "Hand",
+      "focus_phrase": "finger dexterity and intrinsic hand muscle function",
+      "movement_requirements": [
+        "Perform movements slowly with full available range",
+        "Avoid forced stretching of stiff or painful joints",
+        "Maintain a neutral wrist position during finger exercises when possible"
+      ]
+    },
+    "fingers": {
+      "label": "Fingers",
+      "focus_phrase": "individual finger mobility and coordination",
+      "movement_requirements": [
+        "Isolate each finger joint where possible",
+        "Move within pain-free range only",
+        "Stop immediately if sharp pain occurs"
+      ]
+    }
+  },
+
+  "disclaimer": "This is an AI-assisted research/prototype system. It does not provide a medical diagnosis and does not replace evaluation by a qualified physician or physiotherapist. Recommendations are generated from a structured, clinician-reviewed exercise knowledge base and must be confirmed with a healthcare professional before use."
+}

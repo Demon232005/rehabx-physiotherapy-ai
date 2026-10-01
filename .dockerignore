@@ -1,0 +1,58 @@
+# Version control
+.git
+.gitignore
+
+# Dependencies
+node_modules
+frontend/node_modules
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.eggs
+*.egg
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models & Data
+models/checkpoints
+data/
+*.db
+
+# Docker files (avoid recursive builds)
+Dockerfile
+docker-compose.yml
+docker-compose.prod.yml
+.dockerignore
+
+# Documentation
+*.md
+LICENSE
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov
+frontend/coverage
+
+# Build artifacts
+frontend/.next
+frontend/out
+dist/
+build/

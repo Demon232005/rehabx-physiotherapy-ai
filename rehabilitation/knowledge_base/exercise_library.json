@@ -1,0 +1,2052 @@
+{
+  "exercises": [
+    {
+      "slug": "finger-flexion",
+      "name": "Finger Flexion",
+      "description": "Gently curl the fingers toward the palm to maintain finger joint flexion range.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "flexion",
+      "starting_position": "Rest the forearm on a table with the palm facing up and fingers relaxed.",
+      "required_movement": "Slowly bend the fingers into a gentle fist, holding the thumb outside the palm, then slowly straighten.",
+      "contraindications": [
+        "Do not force movement into sharp pain",
+        "Avoid if recent finger fracture without clinician clearance"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-flexion"
+    },
+    {
+      "slug": "finger-extension",
+      "name": "Finger Extension",
+      "description": "Open the fingers fully to maintain finger extension range and balance flexor stiffness.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "extension",
+      "starting_position": "Hand relaxed on a flat surface, palm down.",
+      "required_movement": "Lift and straighten the fingers away from the palm, spreading them gently, then relax back.",
+      "contraindications": [
+        "Avoid if extension triggers joint locking or sharp pain"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-extension"
+    },
+    {
+      "slug": "finger-spreading",
+      "name": "Finger Spreading (Abduction)",
+      "description": "Spread the fingers apart to strengthen the intrinsic muscles of the hand.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "abduction",
+      "starting_position": "Palm flat on a table with fingers together.",
+      "required_movement": "Spread the fingers as far apart as is comfortable, hold briefly, then bring them back together.",
+      "contraindications": [
+        "Avoid forced spreading if it causes pain in the hand web-spaces"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-spreading"
+    },
+    {
+      "slug": "finger-walking",
+      "name": "Finger Walking",
+      "description": "Walk the fingers forward along a surface to improve coordination and full-range motion.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined_flexion",
+      "starting_position": "Palm flat on a table.",
+      "required_movement": "Lift and place one finger at a time to 'walk' the hand forward, then reverse back.",
+      "contraindications": [
+        "Avoid if painful in the knuckle joints"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-walking"
+    },
+    {
+      "slug": "fist-open-close",
+      "name": "Fist Opening and Closing",
+      "description": "Open and close the hand into a full fist to maintain composite grip range.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined",
+      "starting_position": "Forearm supported, hand relaxed.",
+      "required_movement": "Make a gentle full fist with the thumb wrapped outside the fingers, then open the hand fully.",
+      "contraindications": [
+        "Do not make a tight fist during early healing or acute pain",
+        "Avoid with suspected fracture"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/fist-open-close"
+    },
+    {
+      "slug": "thumb-opposition",
+      "name": "Thumb Opposition",
+      "description": "Touch the thumb to each fingertip to maintain the critical pinch range of the thumb.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "opposition",
+      "starting_position": "Palm facing up, thumb relaxed and adducted.",
+      "required_movement": "Touch the thumb tip to the tip of each finger in sequence (index to little finger), then reverse.",
+      "contraindications": [
+        "Avoid if thumb base joint is acutely painful or swollen"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-opposition"
+    },
+    {
+      "slug": "thumb-flexion",
+      "name": "Thumb Flexion",
+      "description": "Bend the thumb across the palm to maintain thumb flexion mobility.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "flexion",
+      "starting_position": "Hand relaxed, palm facing up.",
+      "required_movement": "Slowly bend the thumb across the palm toward the base of the little finger, then return.",
+      "contraindications": [
+        "Avoid forceful movement at the thumb base (CMC) joint"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-flexion"
+    },
+    {
+      "slug": "thumb-extension",
+      "name": "Thumb Extension",
+      "description": "Move the thumb away from the palm to maintain thumb extension and abduction range.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "extension",
+      "starting_position": "Hand resting flat on a table.",
+      "required_movement": "Move the thumb out and away from the palm to the side, hold briefly, then return.",
+      "contraindications": [
+        "Avoid if pain radiates along the thumb side of the wrist"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-extension"
+    },
+    {
+      "slug": "wrist-flexion",
+      "name": "Wrist Flexion",
+      "description": "Bend the wrist forward and backward to maintain wrist flexion range.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "flexion",
+      "starting_position": "Forearm supported on a table, hand hanging off the edge, palm facing down.",
+      "required_movement": "Bend the hand up and then down at the wrist within a pain-free range, keeping fingers relaxed.",
+      "contraindications": [
+        "Avoid end-range stretching if recently injured",
+        "Not for weight-bearing during healing"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/wrist-flexion"
+    },
+    {
+      "slug": "wrist-extension",
+      "name": "Wrist Extension",
+      "description": "Extend the wrist to maintain extension range and stretch the wrist flexors.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "extension",
+      "starting_position": "Forearm supported, palm facing down, hand hanging off the table edge.",
+      "required_movement": "Lift the back of the hand upward as far as is comfortable, then return slowly.",
+      "contraindications": [
+        "Avoid if it reproduces sharp pain on the back of the wrist"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/wrist-extension"
+    },
+    {
+      "slug": "wrist-rotation",
+      "name": "Wrist Rotation",
+      "description": "Circle the wrist to maintain rotational mobility of the joint.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "rotation",
+      "starting_position": "Elbow supported and bent to 90 degrees, hand relaxed with fingers loosely curled.",
+      "required_movement": "Slowly circle the hand in each direction, keeping the forearm still.",
+      "contraindications": [
+        "Avoid fast circular motion in acute inflammation"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        5,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/wrist-rotation"
+    },
+    {
+      "slug": "wrist-ulnar-radial-deviation",
+      "name": "Wrist Ulnar & Radial Deviation",
+      "description": "Move the wrist side to side to maintain full deviation range.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "deviation",
+      "starting_position": "Forearm supported on a table, hand resting flat on its side (thumb up).",
+      "required_movement": "Move the hand up (toward the thumb) and down (toward the little finger) in a pain-free arc.",
+      "contraindications": [
+        "Avoid painful end-range at the ulnar styloid"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/wrist-ulnar-radial-deviation"
+    },
+    {
+      "slug": "gentle-grip-release",
+      "name": "Gentle Grip / Release",
+      "description": "Squeeze and release a soft ball to re-train grip strength with low load.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "isometric_grip",
+      "starting_position": "Sitting comfortably, holding a soft therapy ball or rolled sock in the hand.",
+      "required_movement": "Gently squeeze the ball, hold for a few seconds, then fully release and straighten the fingers.",
+      "contraindications": [
+        "Not to be performed if a fracture is suspected or in acute pain",
+        "Do not use if grip causes joint pain"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/gentle-grip-release"
+    },
+    {
+      "slug": "towel-wring",
+      "name": "Towel Wringing",
+      "description": "Twist a rolled towel with both hands to strengthen wrist and forearm muscles.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "rotation_strength",
+      "starting_position": "Holding a rolled towel horizontally with both hands, elbows relaxed.",
+      "required_movement": "Twist the towel in opposite directions with each hand, then reverse.",
+      "contraindications": [
+        "Not for acute injuries or suspected fracture",
+        "Skip if it reproduces wrist pain"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        5,
+        8
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/towel-wring"
+    },
+    {
+      "slug": "thumb-abduction",
+      "name": "Thumb Abduction",
+      "description": "Lift the thumb straight away from the palm to open the web-space and maintain thumb range.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "thumb_abduction",
+      "starting_position": "Hand flat on a table, palm facing up, fingers relaxed and together.",
+      "required_movement": "Move the thumb out and away from the index finger in one plane, hold briefly, then return it gently alongside the hand.",
+      "contraindications": [
+        "Avoid if the thumb base (CMC) joint is acutely painful or swollen",
+        "Do not force the thumb backwards"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-abduction"
+    },
+    {
+      "slug": "wrist-ulnar-deviation",
+      "name": "Wrist Ulnar Deviation",
+      "description": "Bend the wrist sideways toward the little finger to keep the ulnar deviation range.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "deviation",
+      "starting_position": "Forearm supported on a table, hand resting on its side with the thumb pointing up.",
+      "required_movement": "Tip the hand downward toward the little-finger side within a pain-free arc, then return upright.",
+      "contraindications": [
+        "Avoid painful end-range near the ulnar styloid",
+        "Stop if clicking with pain occurs"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/wrist-ulnar-deviation"
+    },
+    {
+      "slug": "wrist-radial-deviation",
+      "name": "Wrist Radial Deviation",
+      "description": "Bend the wrist sideways toward the thumb to keep the radial deviation range.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "deviation",
+      "starting_position": "Forearm supported on a table, hand resting on its side with the thumb pointing up.",
+      "required_movement": "Tip the hand upward toward the thumb side within a comfortable arc, then return to the middle.",
+      "contraindications": [
+        "Avoid if pain radiates along the thumb side of the wrist",
+        "Keep the motion small and controlled"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/wrist-radial-deviation"
+    },
+    {
+      "slug": "individual-finger-flexion",
+      "name": "Individual Finger Flexion",
+      "description": "Bend each finger separately into the palm to restore isolated joint control after injury or surgery.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "flexion",
+      "starting_position": "Forearm supported, palm facing up, fingers fully relaxed.",
+      "required_movement": "Bend one finger at a time down into the palm (thumb, index, middle, ring, little), hold a moment, then straighten it before moving to the next.",
+      "contraindications": [
+        "Do not force a stiff joint into sharp pain",
+        "Avoid after recent tendon repair without clinician clearance"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/individual-finger-flexion"
+    },
+    {
+      "slug": "tendon-gliding",
+      "name": "Tendon Gliding Exercises",
+      "description": "Move through the fist positions (straight, hook, table-top, full fist) so the finger tendons glide smoothly.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined_flexion",
+      "starting_position": "Wrist neutral, forearm supported, palm facing you.",
+      "required_movement": "Walk slowly through the positions: straight hand, hook fist, table-top (fingers at 90 degrees), full fist — then reverse back to straight.",
+      "contraindications": [
+        "Not during acute tendon repair without surgeon approval",
+        "Reduce range if catching or locking occurs"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        5,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/tendon-gliding"
+    },
+    {
+      "slug": "forearm-pronation",
+      "name": "Forearm Pronation",
+      "description": "Rotate the forearm to turn the palm downward, maintaining pronation range for daily tasks.",
+      "target_region": "forearm",
+      "category": "mobility",
+      "movement_type": "rotation",
+      "starting_position": "Elbow bent at 90 degrees and tucked against your side, thumb pointing up.",
+      "required_movement": "Slowly rotate the forearm so the palm faces the floor, hold briefly, then rotate back to thumb-up.",
+      "contraindications": [
+        "Avoid if rotation reproduces pain near the elbow or wrist",
+        "Keep the elbow still — do not swing the arm"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/forearm-pronation"
+    },
+    {
+      "slug": "forearm-supination",
+      "name": "Forearm Supination",
+      "description": "Rotate the forearm to turn the palm upward, maintaining supination range for daily tasks.",
+      "target_region": "forearm",
+      "category": "mobility",
+      "movement_type": "rotation",
+      "starting_position": "Elbow bent at 90 degrees and tucked against your side, palm facing the floor.",
+      "required_movement": "Slowly rotate the forearm so the palm faces the ceiling, hold briefly, then rotate back down.",
+      "contraindications": [
+        "Avoid end-range forcing after distal radius injuries",
+        "Keep the elbow still — do not shrug the shoulder"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/forearm-supination"
+    },
+    {
+      "slug": "elbow-flexion-extension",
+      "name": "Elbow Flexion / Extension",
+      "description": "Bend and straighten the elbow fully to restore the arm's reaching range after immobilisation.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "elbow_flexion",
+      "starting_position": "Sitting tall with the arm at your side, elbow straight, palm facing forward.",
+      "required_movement": "Bend the elbow, bringing the hand up toward the shoulder, hold briefly, then lower it back until the elbow is straight.",
+      "contraindications": [
+        "Do not force past the point of sharp pain",
+        "Avoid heavy resistance after fracture clearance only allows motion"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/elbow-flexion-extension"
+    },
+    {
+      "slug": "finger-adduction",
+      "name": "Finger Adduction",
+      "description": "Bring the fingers back together from a spread position to train the intrinsic adductor muscles.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "abduction",
+      "starting_position": "Palm flat on a table with the fingers spread apart.",
+      "required_movement": "Slowly bring the fingers together against the surface, then let them fall open again.",
+      "contraindications": [
+        "Stop if the web-spaces pinch painfully"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-adduction",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "finger-gliding",
+      "name": "Finger Gliding",
+      "description": "Smooth opening and closing cycles that glide the finger tendons through their full sheath.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined_flexion",
+      "starting_position": "Forearm supported, palm facing up, fingers relaxed.",
+      "required_movement": "Glide the fingers slowly from fully straight to a comfortable fist and back without stopping.",
+      "contraindications": [
+        "Reduce range if tendons catch or snap",
+        "Not during acute tendon repair without surgeon approval"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-gliding",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "hook-fist",
+      "name": "Hook Fist",
+      "description": "Bend only the finger middle joints to glide flexor tendons while keeping knuckles straight.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined_flexion",
+      "starting_position": "Hand flat, palm up, fingers straight.",
+      "required_movement": "Bend the fingertips into a hook shape keeping the knuckle joints straight, then straighten again.",
+      "contraindications": [
+        "Avoid forcing if the middle joints are acutely swollen"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/hook-fist",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "straight-fist",
+      "name": "Straight Fist (Table Top)",
+      "description": "Bend at the knuckles with straight fingers to isolate the intrinsic muscle glide.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined_flexion",
+      "starting_position": "Hand resting on a table, fingers straight together.",
+      "required_movement": "Bend the fingers at the large knuckles keeping them straight, forming a table-top, then return flat.",
+      "contraindications": [
+        "Skip if the knuckles are painful today"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/straight-fist",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "claw-fist",
+      "name": "Claw Fist",
+      "description": "Combine bent knuckles with curled tips to move all finger joints through a claw-and-open cycle.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "combined",
+      "starting_position": "Elbow supported, hand in front of you, fingers straight.",
+      "required_movement": "Curl the fingers into a claw shape with knuckles bent, hold briefly, then open the hand wide.",
+      "contraindications": [
+        "Never force into sharp joint pain",
+        "Avoid with recent finger fractures"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/claw-fist",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "finger-tapping",
+      "name": "Finger Tapping",
+      "description": "Tap each fingertip against the thumb to build coordination and opposition speed.",
+      "target_region": "hand",
+      "category": "mobility",
+      "movement_type": "opposition",
+      "starting_position": "Elbows supported, palms facing each other or up.",
+      "required_movement": "Tap the thumb to index, middle, ring and little fingertip in turn, keeping movements light and quick but controlled.",
+      "contraindications": [
+        "Slow down if precision is poor — accuracy before speed"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/finger-tapping",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "thumb-circles",
+      "name": "Thumb Circles",
+      "description": "Circle the thumb gently to mobilise the base joint through its combined arc.",
+      "target_region": "thumb",
+      "category": "mobility",
+      "movement_type": "opposition",
+      "starting_position": "Hand relaxed, palm up, fingers loosely curled.",
+      "required_movement": "Draw slow, comfortable circles with the tip of the thumb, first one direction then the other.",
+      "contraindications": [
+        "Avoid if the thumb base is acutely inflamed"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/thumb-circles",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "thumb-adduction",
+      "name": "Thumb Adduction",
+      "description": "Return the thumb alongside the index finger to restore the adducted rest position.",
+      "target_region": "thumb",
+      "category": "mobility",
+      "movement_type": "thumb_abduction",
+      "starting_position": "Palm up with the thumb held away from the hand.",
+      "required_movement": "Bring the thumb gently alongside the side of the index finger, hold, then lift it away again.",
+      "contraindications": [
+        "Do not force the thumb across the palm if it catches"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-adduction",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "thumb-stretch",
+      "name": "Thumb Stretch",
+      "description": "A gentle sustained stretch across the thumb web-space to reduce stiffness.",
+      "target_region": "thumb",
+      "category": "mobility",
+      "movement_type": "thumb_abduction",
+      "starting_position": "Hand flat, palm up, fingers relaxed.",
+      "required_movement": "Move the thumb out to the side to a mild stretch and hold for a few seconds before easing back.",
+      "contraindications": [
+        "Stretch must stay mild — never bounce the thumb"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-stretch",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "thumb-mobility-flow",
+      "name": "Thumb Mobility Flow",
+      "description": "Combine abduction, opposition and circles into one flowing thumb mobility sequence.",
+      "target_region": "thumb",
+      "category": "mobility",
+      "movement_type": "thumb_abduction",
+      "starting_position": "Hand supported, palm up, wrist neutral.",
+      "required_movement": "Flow smoothly: lift the thumb away, circle it, touch it to the little-finger base and return — one continuous cycle.",
+      "contraindications": [
+        "Keep every part of the flow pain-free"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/thumb-mobility-flow",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "thumb-strengthening",
+      "name": "Thumb Strengthening (Pinch Cycles)",
+      "description": "Repeated gentle pinch presses to strengthen the thumb muscles after injury or splinting.",
+      "target_region": "thumb",
+      "category": "strengthening",
+      "movement_type": "opposition",
+      "starting_position": "Elbow supported, hand relaxed.",
+      "required_movement": "Press the thumb tip against each fingertip with gentle firm effort, release fully between presses.",
+      "contraindications": [
+        "Only light effort until cleared after thumb fracture or ligament injury"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/thumb-strengthening",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "soft-ball-squeeze",
+      "name": "Soft Ball Squeeze",
+      "description": "Squeeze a soft ball to gently load the gripping muscles of the hand and palm.",
+      "target_region": "palm",
+      "category": "strengthening",
+      "movement_type": "isometric_grip",
+      "starting_position": "Hold a soft ball or stress ball in the palm.",
+      "required_movement": "Squeeze the ball gently, hold for about three seconds, then relax the grip completely.",
+      "contraindications": [
+        "Not during acute pain or suspected fracture",
+        "Skip if squeezing causes joint pain"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/soft-ball-squeeze",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "grip-and-release",
+      "name": "Grip and Release",
+      "description": "Alternate quick-but-controlled gripping with full finger opening to train grip switching.",
+      "target_region": "palm",
+      "category": "mobility",
+      "movement_type": "combined",
+      "starting_position": "Forearm supported, hand free at the edge of a table.",
+      "required_movement": "Close the hand into a comfortable fist, then open it fully and spread the fingers — repeat smoothly.",
+      "contraindications": [
+        "Avoid tight fists early after injury",
+        "Reduce speed if cramping starts"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        15
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/grip-and-release",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "tip-pinch",
+      "name": "Tip Pinch",
+      "description": "Precision tip-to-tip pinches that strengthen the small intrinsic pinch muscles.",
+      "target_region": "grip",
+      "category": "strengthening",
+      "movement_type": "opposition",
+      "starting_position": "Elbow supported, thumb and index tip touching.",
+      "required_movement": "Pinch the thumb and index tips together firmly but pain-free, release halfway, and repeat.",
+      "contraindications": [
+        "Light effort only after thumb ligament injuries"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/tip-pinch",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "three-finger-pinch",
+      "name": "Three-Finger Pinch",
+      "description": "A chuck pinch using thumb, index and middle fingers for functional grasp strength.",
+      "target_region": "grip",
+      "category": "strengthening",
+      "movement_type": "opposition",
+      "starting_position": "Elbow supported; thumb, index and middle fingertips touching.",
+      "required_movement": "Squeeze the three pads together, hold two seconds, then open the fingers fully apart.",
+      "contraindications": [
+        "Stop if the finger joints grind with pain"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/three-finger-pinch",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 2
+    },
+    {
+      "slug": "lateral-pinch",
+      "name": "Lateral Pinch (Key Grip)",
+      "description": "Press the thumb against the side of the index finger — the key-grip used for turning keys.",
+      "target_region": "grip",
+      "category": "strengthening",
+      "movement_type": "isometric_grip",
+      "starting_position": "Hand on its side, thumb resting against the index finger's outer edge.",
+      "required_movement": "Squeeze the thumb sideways against the index finger, hold, then relax without letting the thumb collapse across the palm.",
+      "contraindications": [
+        "Avoid hard squeezing with a healing thumb-base fracture"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/lateral-pinch",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 2
+    },
+    {
+      "slug": "palm-press",
+      "name": "Palm Press",
+      "description": "Press the palm flat and lift the fingers to stretch the palm fascia and activate extensors.",
+      "target_region": "palm",
+      "category": "mobility",
+      "movement_type": "extension",
+      "starting_position": "Elbow bent, palms pressed together at chest height.",
+      "required_movement": "Press the palms firmly together, then push the fingers away from each other to stretch the palm, and relax.",
+      "contraindications": [
+        "Mild stretch only for Dupuytren's-related tightness"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/palm-press",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "putty-squeeze",
+      "name": "Putty Grip",
+      "description": "Squeeze therapy putty through the full hand to build graded grip strength.",
+      "target_region": "grip",
+      "category": "strengthening",
+      "movement_type": "isometric_grip",
+      "starting_position": "Hold a ball of therapy putty in the palm.",
+      "required_movement": "Squeeze the putty into the palm slowly, hold, then work the fingers back open through the putty.",
+      "contraindications": [
+        "Use clinician-assigned putty resistance only"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/putty-squeeze",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "finger-resistance-band",
+      "name": "Finger Resistance Exercise",
+      "description": "Open the fingers against an elastic band to strengthen the spreading muscles.",
+      "target_region": "grip",
+      "category": "strengthening",
+      "movement_type": "abduction",
+      "starting_position": "An elastic band looped around the outside of all five fingertips.",
+      "required_movement": "Spread the fingers outward against the band, hold briefly, then close slowly under control.",
+      "contraindications": [
+        "Skip if any finger joint is acutely painful",
+        "Use a very light band first"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/finger-resistance-band",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "wrist-circumduction",
+      "name": "Wrist Circumduction",
+      "description": "Circle the hand through its full pain-free arc to mobilise the wrist in every direction.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "wrist_rom",
+      "starting_position": "Forearm supported on a table with the hand free over the edge.",
+      "required_movement": "Move the hand slowly in large comfortable circles — up, to the side, down, back — then reverse the direction.",
+      "contraindications": [
+        "Avoid fast circles during acute inflammation",
+        "Keep circles small if end-range is painful"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wrist-circumduction",
+      "tracking_mode": "hand+pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "wrist-flexor-stretch",
+      "name": "Wrist Flexor Stretch",
+      "description": "A sustained stretch for the underside of the forearm to lengthen the wrist flexor muscles.",
+      "target_region": "wrist",
+      "category": "stretching",
+      "movement_type": "wrist_stretch_hold",
+      "starting_position": "Arm straight in front, palm facing up.",
+      "required_movement": "With the other hand, gently pull the fingers and palm back until a mild stretch is felt under the forearm — hold and breathe.",
+      "contraindications": [
+        "Stretch must stay mild after distal radius injury",
+        "Never stretch into tingling or numbness"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        5
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wrist-flexor-stretch",
+      "tracking_mode": "hand+pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "wrist-extensor-stretch",
+      "name": "Wrist Extensor Stretch",
+      "description": "A sustained stretch along the back of the forearm for tennis-elbow and wrist stiffness.",
+      "target_region": "wrist",
+      "category": "stretching",
+      "movement_type": "wrist_stretch_hold",
+      "starting_position": "Arm straight in front, palm facing down, wrist relaxed.",
+      "required_movement": "Bend the wrist so the palm faces you, deepening gently with the other hand until the top of the forearm stretches — hold.",
+      "contraindications": [
+        "Ease off if it reproduces lateral elbow pain sharply"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        5
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wrist-extensor-stretch",
+      "tracking_mode": "hand+pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "wrist-mobility-flow",
+      "name": "Wrist Mobility Flow",
+      "description": "Combine flexion, extension and deviations into one smooth wrist mobility sequence.",
+      "target_region": "wrist",
+      "category": "mobility",
+      "movement_type": "wrist_rom",
+      "starting_position": "Forearm supported, hand relaxed at the edge of a table.",
+      "required_movement": "Flow through the positions: bend down, sweep up, tip toward the thumb side, tip toward the little side — continuously and smoothly.",
+      "contraindications": [
+        "Stay within the arc that is completely pain-free"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wrist-mobility-flow",
+      "tracking_mode": "hand+pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "wrist-strengthening",
+      "name": "Wrist Strengthening (Light Load)",
+      "description": "Controlled wrist curls against a very light weight or water bottle to strengthen the wrist movers.",
+      "target_region": "wrist",
+      "category": "strengthening",
+      "movement_type": "wrist_rom",
+      "starting_position": "Forearm supported on a table, holding a very light object with the hand free over the edge.",
+      "required_movement": "Slowly bend the wrist up and lower it back down through the available range, keeping the forearm still.",
+      "contraindications": [
+        "Only after fracture clearance",
+        "Use 0.25–1 kg maximum unless your clinician advises more"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wrist-strengthening",
+      "tracking_mode": "hand+pose",
+      "duration_min": 6,
+      "progression_level": 2
+    },
+    {
+      "slug": "wrist-curl",
+      "name": "Wrist Curl",
+      "description": "Palm-up wrist curls loading the forearm flexors through their full range.",
+      "target_region": "forearm",
+      "category": "strengthening",
+      "movement_type": "wrist_rom",
+      "starting_position": "Seated, forearm resting on the thigh or bench, palm up, light weight in hand.",
+      "required_movement": "Curl the hand upward by bending the wrist, pause briefly at the top, lower slowly.",
+      "contraindications": [
+        "Not during acute medial elbow pain",
+        "Light load only until cleared"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wrist-curl",
+      "tracking_mode": "hand+pose",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "reverse-wrist-curl",
+      "name": "Reverse Wrist Curl",
+      "description": "Palm-down wrist extensions loading the forearm extensor muscles.",
+      "target_region": "forearm",
+      "category": "strengthening",
+      "movement_type": "wrist_rom",
+      "starting_position": "Seated, forearm supported, palm facing down, very light weight in hand.",
+      "required_movement": "Lift the back of the hand upward by extending the wrist, pause, then lower with control.",
+      "contraindications": [
+        "Reduce load if outer-elbow (tennis elbow) pain flares"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/reverse-wrist-curl",
+      "tracking_mode": "hand+pose",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "forearm-stretch",
+      "name": "Forearm Stretch",
+      "description": "Elbow-straightened forearm stretching held statically to restore muscle length.",
+      "target_region": "forearm",
+      "category": "stretching",
+      "movement_type": "forearm_stretch_hold",
+      "starting_position": "Standing tall, arm straight out, palm up.",
+      "required_movement": "Keep the elbow straight and gently draw the fingers back with the opposite hand until the whole forearm lengthens — hold and breathe.",
+      "contraindications": [
+        "Mild tension only — no pulling into pain"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        5
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/forearm-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "grip-rotation",
+      "name": "Grip Rotation",
+      "description": "Rotate a light held object from upright to horizontal and back to train rotational strength of the forearm.",
+      "target_region": "forearm",
+      "category": "strengthening",
+      "movement_type": "rotation_strength",
+      "starting_position": "Elbow bent 90° and tucked to your side, holding a hammer or light object upright.",
+      "required_movement": "Rotate the object slowly toward the little-finger side, then back upright and slightly past — like turning a key both ways.",
+      "contraindications": [
+        "Not after recent distal radius fracture without clearance",
+        "Keep the elbow still throughout"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/grip-rotation",
+      "tracking_mode": "hand",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "elbow-flexion",
+      "name": "Elbow Flexion",
+      "description": "Bend the elbow fully to restore flexion range for feeding, grooming and reaching tasks.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "elbow_rom",
+      "starting_position": "Sitting or standing tall with the arms at the sides, elbows straight, palms forward.",
+      "required_movement": "Bend one elbow bringing the hand toward the shoulder as far as comfortable, then straighten fully back down.",
+      "contraindications": [
+        "Do not force past sharp pain",
+        "Only gentle motion after fracture until clinician clearance"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/elbow-flexion",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "elbow-extension",
+      "name": "Elbow Extension",
+      "description": "Straighten the elbow fully to recover extension range lost after splinting or swelling.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "elbow_rom",
+      "starting_position": "Sitting with the elbow bent comfortably, upper arm supported.",
+      "required_movement": "Straighten the elbow slowly until fully extended or to the first point of resistance, then bend back with control.",
+      "contraindications": [
+        "Stop at sharp pain — never bounce into extension"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/elbow-extension",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "assisted-elbow-flexion",
+      "name": "Assisted Elbow Flexion",
+      "description": "The other hand assists the stiff elbow through its range when active motion alone falls short.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "elbow_rom",
+      "starting_position": "Sitting; grip the forearm just below the wrist with the well hand.",
+      "required_movement": "Bend the elbow actively while the other hand gently assists the movement deeper, then assist back down slowly.",
+      "contraindications": [
+        "Assist force stays gentle — this must never be forced",
+        "Skip during acute post-operative phase unless prescribed"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/assisted-elbow-flexion",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "controlled-elbow-bending",
+      "name": "Controlled Elbow Bending",
+      "description": "Slow-tempo elbow bends that build motor control and confidence through the middle range.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "elbow_rom",
+      "starting_position": "Standing tall, arms relaxed at the sides.",
+      "required_movement": "Bend and straighten the elbow to a slow three-count rhythm each way, keeping the shoulder relaxed.",
+      "contraindications": [
+        "If trembling starts, rest before continuing"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/controlled-elbow-bending",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "elbow-extension-stretch",
+      "name": "Elbow Extension Stretch",
+      "description": "A held straight-arm stretch targeting the elbow's end-range extension stiffness.",
+      "target_region": "elbow",
+      "category": "stretching",
+      "movement_type": "elbow_extension_hold",
+      "starting_position": "Arm out in front or resting on a table, elbow as straight as comfortable.",
+      "required_movement": "Prop the wrist on a rolled towel or press gently downward to feel a mild stretch at the front of the elbow — hold and breathe.",
+      "contraindications": [
+        "Mild stretch only after immobilisation",
+        "Stop if numbness or tingling appears"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        5
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/elbow-extension-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "biceps-stretch",
+      "name": "Biceps Stretch",
+      "description": "A doorway stretch that lengthens the biceps and front-shoulder tissues together.",
+      "target_region": "elbow",
+      "category": "stretching",
+      "movement_type": "elbow_extension_hold",
+      "starting_position": "Stand in a doorway, forearm along the frame with the elbow roughly at shoulder height.",
+      "required_movement": "Step forward gently until the biceps and chest front stretch mildly — hold, breathing steadily.",
+      "contraindications": [
+        "Avoid entirely with an acute shoulder dislocation history until cleared"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        4
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/biceps-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "triceps-stretch",
+      "name": "Triceps Stretch",
+      "description": "An overhead stretch lengthening the triceps and back of the shoulder.",
+      "target_region": "elbow",
+      "category": "stretching",
+      "movement_type": "elbow_flexion_hold",
+      "starting_position": "Sitting or standing tall; raise the affected arm overhead.",
+      "required_movement": "Bend the elbow so the hand drops behind the head/neck; assist gently with the other hand until the triceps stretches — hold.",
+      "contraindications": [
+        "Skip with acute shoulder impingement pain overhead"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        3,
+        4
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/triceps-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "elbow-pronation-supination",
+      "name": "Elbow Pronation / Supination",
+      "description": "Turn the palm down and up with the elbow tucked to restore rotational elbow range.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "rotation",
+      "starting_position": "Elbow bent 90° and held against the side, thumb pointing up.",
+      "required_movement": "Rotate the forearm until the palm faces the floor, hold briefly, rotate back through neutral until the palm faces the ceiling.",
+      "contraindications": [
+        "Keep the elbow still — no swinging",
+        "Gentle range after distal biceps or radial-head injury until cleared"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/elbow-pronation-supination",
+      "tracking_mode": "hand",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "elbow-mobility-routine",
+      "name": "Elbow Mobility Routine",
+      "description": "A flowing sequence combining bending, straightening and forearm turns for overall elbow mobility.",
+      "target_region": "elbow",
+      "category": "mobility",
+      "movement_type": "elbow_rom",
+      "starting_position": "Standing comfortably, arms at the sides.",
+      "required_movement": "Flow smoothly: bend the elbow fully, straighten it, turn the palm up, turn it down — one continuous cycle per rep.",
+      "contraindications": [
+        "Every part of the flow must remain pain-free"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/elbow-mobility-routine",
+      "tracking_mode": "pose",
+      "duration_min": 6,
+      "progression_level": 1
+    },
+    {
+      "slug": "light-elbow-strengthening",
+      "name": "Light Elbow Strengthening",
+      "description": "Slow elbow curls against a very light load to rebuild strength safely after deconditioning.",
+      "target_region": "elbow",
+      "category": "strengthening",
+      "movement_type": "elbow_rom",
+      "starting_position": "Sitting, holding a very light object (0.5–1 kg) in the hand, arm at the side.",
+      "required_movement": "Curl the object up by bending the elbow, pause, then lower over three slow counts.",
+      "contraindications": [
+        "Only after fracture/tendon clearance",
+        "Stop immediately with sharp joint pain"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/light-elbow-strengthening",
+      "tracking_mode": "pose",
+      "duration_min": 6,
+      "progression_level": 2
+    },
+    {
+      "slug": "shoulder-flexion",
+      "name": "Shoulder Flexion",
+      "description": "Raise the arm forward and up to restore the shoulder's overhead reaching range.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "shoulder_elev",
+      "starting_position": "Standing tall with the arms relaxed at the sides, palms facing the thighs.",
+      "required_movement": "Raise one arm straight forward and up as far as comfortable, then lower it slowly along the same path.",
+      "contraindications": [
+        "Stop below painful arcs if impingement pain is present",
+        "Avoid heavy speed — smooth only"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/shoulder-flexion",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-extension",
+      "name": "Shoulder Extension",
+      "description": "Take the arm gently behind the body to open the front-shoulder tissues.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "shoulder_extension",
+      "starting_position": "Standing tall, arms at the sides, palms facing back.",
+      "required_movement": "Keeping the elbow straight, take the arm slowly backward as far as comfortable, then return it alongside.",
+      "contraindications": [
+        "Mild range after dislocation until cleared",
+        "Never force into sharp pain behind"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-extension",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-abduction",
+      "name": "Shoulder Abduction",
+      "description": "Lift the arm out to the side in the scapular plane to build abduction range.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "shoulder_abduct",
+      "starting_position": "Standing tall, arms relaxed at the sides, thumbs turned slightly up.",
+      "required_movement": "Raise one arm out to the side toward ear height within a pain-free arc, thumb leading, then lower with control.",
+      "contraindications": [
+        "Stay below the painful arc if impingement is present",
+        "Do not shrug the shoulder as you lift"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/shoulder-abduction",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-adduction",
+      "name": "Shoulder Adduction (Cross Body)",
+      "description": "Draw the arm across the chest to train adduction range and stretch the outer shoulder.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "shoulder_crossbody",
+      "starting_position": "Standing or sitting tall, arm raised to about shoulder height.",
+      "required_movement": "Sweep the arm across your chest toward the opposite shoulder, keeping it level, then return it out to the start.",
+      "contraindications": [
+        "Skip during acute rotator-cuff pain",
+        "Keep the sweep below the painful arc"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-adduction",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-internal-rotation",
+      "name": "Shoulder Internal Rotation",
+      "description": "Reach behind toward the lower back to maintain internal rotation range.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "shoulder_behind",
+      "starting_position": "Standing; rest the hand by your hip.",
+      "required_movement": "Bend the elbow and reach the back of the hand gently toward the small of your back, then return the arm down.",
+      "contraindications": [
+        "Never force behind-the-back reach after dislocation until cleared"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-internal-rotation",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-external-rotation",
+      "name": "Shoulder External Rotation",
+      "description": "With the elbow pinned at your side, rotate the forearm outward like opening a door.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "forearm_er",
+      "starting_position": "Elbow bent 90° and tucked against your ribs, palm facing inward.",
+      "required_movement": "Rotate the forearm outward away from the body keeping the elbow still, pause, and bring it slowly back.",
+      "contraindications": [
+        "Small range after subluxation/dislocation until surgeon clearance"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/shoulder-external-rotation",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-circumduction",
+      "name": "Shoulder Circumduction",
+      "description": "Large gentle circles of the whole arm to mobilise the shoulder through its combined arc.",
+      "target_region": "shoulder",
+      "category": "mobility",
+      "movement_type": "shoulder_circumduct",
+      "starting_position": "Standing tall with the arm hanging relaxed or held lightly forward.",
+      "required_movement": "Swing the arm in large, slow, comfortable circles forward several times, then reverse direction.",
+      "contraindications": [
+        "Reduce circle size if any arc pinches painfully"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        6,
+        10
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-circumduction",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "cross-body-shoulder-stretch",
+      "name": "Cross-Body Shoulder Stretch",
+      "description": "A held stretch pulling the arm across the chest to release the posterior shoulder.",
+      "target_region": "shoulder",
+      "category": "stretching",
+      "movement_type": "crossbody_stretch_hold",
+      "starting_position": "Standing tall; raise one arm to chest height across the body.",
+      "required_movement": "Hook the other hand above the elbow and draw the arm gently closer to the chest until the back of the shoulder stretches — hold.",
+      "contraindications": [
+        "Mild pull only — never yank the elbow across"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        5
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/cross-body-shoulder-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "doorway-shoulder-stretch",
+      "name": "Doorway Shoulder Stretch",
+      "description": "A frame-supported hold that opens the chest and front-shoulder muscles.",
+      "target_region": "shoulder",
+      "category": "stretching",
+      "movement_type": "doorway_stretch_hold",
+      "starting_position": "Forearms on a door frame with elbows just below shoulder height.",
+      "required_movement": "Lean gently through the doorway until the chest and front shoulders stretch mildly — hold and breathe steadily.",
+      "contraindications": [
+        "Skip after acute anterior dislocation until cleared"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        3,
+        4
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/doorway-shoulder-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "pendulum-exercise",
+      "name": "Pendulum Exercise",
+      "description": "Leaning forward, let the arm swing like a pendulum to passively free the stiff shoulder.",
+      "target_region": "shoulder",
+      "category": "recovery",
+      "movement_type": "shoulder_pendulum",
+      "starting_position": "Stand leaning forward supporting yourself on a table with the well hand; let the sore arm hang fully relaxed.",
+      "required_movement": "Let the relaxed arm swing gently forward-and-back and side-to-side in small arcs — the shoulder does no work.",
+      "contraindications": [
+        "Passive only — stop if it becomes an active painful lift"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        10,
+        16
+      ],
+      "set_range": [
+        1,
+        2
+      ],
+      "animation_placeholder": "/animations/pendulum-exercise",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "sleeper-stretch",
+      "name": "Sleeper Stretch",
+      "description": "Lying on the affected side, a gentle push rotates the shoulder internally to release tightness.",
+      "target_region": "shoulder",
+      "category": "stretching",
+      "movement_type": "sleeper_stretch_hold",
+      "starting_position": "Lie on the affected side with the sore arm underneath, elbow bent 90°.",
+      "required_movement": "Use the top hand to press the forearm gently down toward the bed until the back of the shoulder stretches — hold.",
+      "contraindications": [
+        "Not after recent dislocation/subluxation without clearance",
+        "Pressure must stay gentle"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        3,
+        4
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/sleeper-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 2
+    },
+    {
+      "slug": "overhead-shoulder-stretch",
+      "name": "Overhead Shoulder Stretch",
+      "description": "Reaching tall overhead with assistance stretches the lats and shoulder elevators.",
+      "target_region": "shoulder",
+      "category": "stretching",
+      "movement_type": "overhead_stretch_hold",
+      "starting_position": "Standing tall; raise both arms overhead.",
+      "required_movement": "Clasp the hands and reach upward and slightly back until the sides of the trunk and shoulders lengthen — hold.",
+      "contraindications": [
+        "Ease off at painful overhead arcs (common in impingement)"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        3,
+        4
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/overhead-shoulder-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 3,
+      "progression_level": 2
+    },
+    {
+      "slug": "shoulder-blade-stretch",
+      "name": "Shoulder Blade Stretch",
+      "description": "Gentle squeezes of the shoulder blades together to mobilise the upper back.",
+      "target_region": "shoulder",
+      "category": "stretching",
+      "movement_type": "scapular_squeeze",
+      "starting_position": "Sitting or standing tall, arms relaxed.",
+      "required_movement": "Draw the shoulder blades gently toward each other, hold two seconds, then relax fully — keep the shoulders low.",
+      "contraindications": [
+        "Avoid hard squeezing with a rib/sternum injury"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-blade-stretch",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "wall-slides",
+      "name": "Wall Slides",
+      "description": "Sliding the arms up a wall keeps the shoulders working symmetrically through elevation.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "wall_slides",
+      "starting_position": "Face a wall standing close; forearms vertical against it, elbows at shoulder height.",
+      "required_movement": "Slide the forearms slowly up the wall as high as comfortable, then glide them back down under control.",
+      "contraindications": [
+        "Stay below sharp painful arcs",
+        "Keep equal effort both sides where possible"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/wall-slides",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "scapular-retraction",
+      "name": "Scapular Retraction",
+      "description": "Repeated controlled shoulder-blade squeezes that anchor healthy shoulder mechanics.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "scapular_squeeze",
+      "starting_position": "Sitting tall on a firm chair, arms resting loosely.",
+      "required_movement": "Pull the shoulder blades together and slightly down, hold briefly without shrugging, then release completely.",
+      "contraindications": [
+        "Keep the effort moderate — no breath-holding"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        3
+      ],
+      "animation_placeholder": "/animations/scapular-retraction",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-isometric-flexion",
+      "name": "Shoulder Isometric Flexion",
+      "description": "Push the fist gently forward against a wall to load the shoulder without joint motion.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "iso_flexion_hold",
+      "starting_position": "Facing a wall; make a fist and place its back against the wall at waist height, elbow slightly bent.",
+      "required_movement": "Press the fist gently forward into the wall at roughly 30–50% effort, hold steady, breathe, then relax.",
+      "contraindications": [
+        "Early post-injury: use clinician-approved effort levels only"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        5,
+        8
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-isometric-flexion",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "shoulder-isometric-extension",
+      "name": "Shoulder Isometric Extension",
+      "description": "Press the elbow backward against resistance to load the rear shoulder statically.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "iso_extension_hold",
+      "starting_position": "Stand with your back near a wall; bend the elbow 90° with the upper arm alongside the body.",
+      "required_movement": "Press the elbow gently backward into the wall at low-to-moderate effort, hold steady, then relax fully.",
+      "contraindications": [
+        "Very low effort after acute rotator-cuff strain"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        5,
+        8
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/shoulder-isometric-extension",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "light-shoulder-raises",
+      "name": "Light Shoulder Raises",
+      "description": "Raise the arms to shoulder height without weight — a safe re-entry to shoulder strength work.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "light_raise",
+      "starting_position": "Standing tall, arms at the sides, palms facing in.",
+      "required_movement": "Raise both arms forward to shoulder height only (no higher), pause, and lower slowly.",
+      "contraindications": [
+        "Stop at the first painful arc — height comes later"
+      ],
+      "difficulty": "beginner",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/light-shoulder-raises",
+      "tracking_mode": "pose",
+      "duration_min": 4,
+      "progression_level": 1
+    },
+    {
+      "slug": "front-raises",
+      "name": "Front Raises",
+      "description": "Alternate controlled front raises to strengthen the front-shoulder lifting pattern.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "front_raise",
+      "starting_position": "Standing tall; arms at the sides, palms facing the thighs (add tiny weights only when cleared).",
+      "required_movement": "Raise one arm straight forward to eye height, lower it, then repeat with the other arm in a smooth rhythm.",
+      "contraindications": [
+        "No added weight during active impingement pain"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/front-raises",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 2
+    },
+    {
+      "slug": "side-raises",
+      "name": "Side Raises",
+      "description": "Out-to-the-side raises to shoulder height building deltoid strength safely.",
+      "target_region": "shoulder",
+      "category": "strengthening",
+      "movement_type": "side_raise",
+      "starting_position": "Standing tall, arms at the sides, thumbs slightly up.",
+      "required_movement": "Raise both arms out to the sides to shoulder height with thumbs leading, pause, lower slowly.",
+      "contraindications": [
+        "Reduce height immediately if the painful arc catches"
+      ],
+      "difficulty": "intermediate",
+      "rep_range": [
+        8,
+        12
+      ],
+      "set_range": [
+        2,
+        2
+      ],
+      "animation_placeholder": "/animations/side-raises",
+      "tracking_mode": "pose",
+      "duration_min": 5,
+      "progression_level": 2
+    }
+  ]
+}
